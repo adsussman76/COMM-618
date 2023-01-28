@@ -1,5 +1,7 @@
 Office of the State's Attorney for Baltimore City
+
 120 E. Baltimore Street
+
 Baltimore, MD 21202
 
 To Whom It May Concern: 
@@ -17,4 +19,7 @@ Thank you in advance for your anticipated cooperation in this matter. I look for
 Sincerely,
 
 Abby Sussman
-404 Alabama Road, Towson, MD 21204
+
+404 Alabama Road
+
+Towson, MD 21204
