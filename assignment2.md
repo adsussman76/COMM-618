@@ -1,1 +1,10 @@
+# How many people migrate to Maryland each year from outside the United States?
+I am interested in finding out how many international immigrants come to Maryland each year and I found a [dataset](https://opendata.maryland.gov/Demographic/Maryland-International-Migration-2001-2021/hq27-cfrc) on the state of Maryland's Open Data Portal that I think will answer this question.
 
+This dataset was created by the State of Maryland's Department of Planning as part of their work collecting and analyzing information on the state's demographics. The data covers the period from 2001 to 2021 and was originally published in 2020 with updates in 2021 and 2022. In my opinion, the Department of Planning is a trustworthy data source as they are a part of the government and don't have motives to manipulate data to tell a certain story.
+
+There is a big piece missing in my evaluation of this dataset however; I was not able to find the method in which the data was collected. My guess would be the numbers come from the ways the state keeps track of legal immigration, but I don't know if that includes immigrants who only come for part of the year (like those on who come on H2 seasonal work visas) or just more permanent migrants. These questions can be solved by making contact with the Maryland Department of Planning to find out more about their methods. Illegal immigration is likely also not included in this dataset, so that would need to be taken into account when drawing broader conclusions. 
+
+In the spreadsheet, the total number of migrants in Maryland was written as a number, not an equation adding up the individual counties. I decided to add up the individual counties for each year to make sure the total numbers were correct, and they were.
+
+This dataset has inspired a follow-up to my initial question: why has foreign migration to Maryland been dropping since 2018? In 2019 and each subsequent year, the number of foreign migrants has been the lowest since 2001. What has been causing this decrease? That is definitely a question I'd like to look into further.
