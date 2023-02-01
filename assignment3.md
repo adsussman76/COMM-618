@@ -21,7 +21,7 @@ In addition to Trump’s campaign, FEC filings show Trump-supporting political a
 
 The biggest contribution to that number came from the RNC, which spent more than half a million dollars at Trump properties. This included two "venue rental and catering” expenses at Trump International Hotel in Washington, D.C. and Trump National Doral Miami each amounting to more than $100,000.
 
-![alt text](image.jpg) Insert pivot table
+![Pivot table showing PAC and RNC expenses at Trump businesses.](PACsandRNC.png)
 
 RNC Spokesperson Liz Harrington said Trump hotels are competitively priced and can accommodate the president’s security needs.
 
