@@ -29,8 +29,10 @@ RNC Spokesperson Liz Harrington said Trump hotels are competitively priced and c
 
 ——————
 
-Methods:
+Methods: Text in [brackets] refers to a tab on in the Sheets document. I went a little overboard with the tabs!
 
+First, I imported the .csv into Google Sheets [trump_spending] and then sorted the data by committee name [sort]. From there, I separated out entries for “DONALD J. TRUMP FOR PRESIDENT, INC.” into a separate sheet [campaign] and further filtered those data to just include expenses for the 2020 campaign [campaign 2020]. I conformed some of the entries that weren’t standardized (recipient name and disbursement description) [campaign 2020 sort] and created pivot tables to see which Trump companies received money from the Trump campaign, how much money they received, and what the expenditure was categorized as [Pivot Table 1]. I also created a pivot table to see how much money was spent on each category, like rent, lodging, etc. [Pivot Table 2]
 
+I went through the same process with sorting out Trump PAC and RNC expenditures at Trump properties [pacs & rnc] and created a pivot table to see how much money each committee spent and which businesses received that money [Pivot Table 3].
 
 [Link to spreadsheet](https://docs.google.com/spreadsheets/d/1UWz7w8CZZo6oD5QpvO-F-g6bl_k3KBZhEXrMwo5uBws/edit?usp=sharing)
