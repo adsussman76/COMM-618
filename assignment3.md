@@ -11,11 +11,11 @@ The largest disbursement was an almost $159,000 payment to Trump Tower Commercia
 
 Tim Murtaugh, a spokesperson for the Trump campaign, said the campaign’s payments are all legal under FEC law.
 
-Quote from Tim Murtagh.
+*Quote from Tim Murtagh.*
 
 Richard Briffault, an expert on campaign finance law and Columbia Law School professor, agrees that these payments likely do not violate the law. There are no laws preventing payments to the candidate’s properties as long as the business doesn’t overcharge the campaign.
 
-Quote from Richard Briffault.
+*Quote from Richard Briffault.*
 
 In addition to Trump’s campaign, FEC filings show Trump-supporting political action committees and the Republican National Committee also had large expenditure’s at the president’s businesses. Together, the RNC and PACs spent more than $630,000 in 51 separate payments during the 2016, 2018 and 2020 election cycles. Descriptions for these expenses include venue rental and catering, travel expenses, and food/beverage.
 
@@ -25,7 +25,7 @@ The biggest contribution to that number came from the RNC, which spent more than
 
 RNC Spokesperson Liz Harrington said Trump hotels are competitively priced and can accommodate the president’s security needs.
 
-Quote from Liz Harrington.
+*Quote from Liz Harrington.*
 
 ——————
 
