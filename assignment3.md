@@ -7,7 +7,7 @@ Expenditures included more than $160,000 on legal consulting from the Trump Corp
 
 The largest disbursement was an almost $159,000 payment to Trump Tower Commercial LLC made for rent in February 2017. This came one month after a $75,000 payment also to Trump Tower Commercial LLC. The FEC paperwork does not go into further detail about what the space was rented for.
 
-![alt text](image.jpg) Insert pivot table
+![Pivot table showing Trump campaign expenses at Trump businesses.](TrumpCampaign.png)
 
 Tim Murtaugh, a spokesperson for the Trump campaign, said the campaign’s payments are all legal under FEC law.
 
