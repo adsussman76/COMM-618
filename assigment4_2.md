@@ -24,7 +24,7 @@ I picked pounds over dollars sold because it’s easier to compare across years,
 
 As a follow up, I would conduct a survey of both dairy and plant-based milk drinkers and get the reasoning behind their decision to consume one or the other or both. 
 
-Here’s a preliminary data sample: (I am struggling to find plant-based milk data not behind a paywall) 
+Here’s a preliminary data sample: (I am struggling to find plant-based milk data not behind a paywall. I've found some market share data, but not pounds or gallons.) 
 
 | Year | Dairy Milk (millions pounds)| Soy Milk | Almond Milk |  
 | ----------- | ----------- | ----------- | ----------- | 
