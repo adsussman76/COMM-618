@@ -1,4 +1,3 @@
-done!
 ## The Question 
 Over the last few years, some of the most talked about television shows were made outside the United States. Programs like *Squid Game* were as much a part of the water cooler conversation as American shows, like *House of the Dragon.* Gone are the days of Americans being turned off by subtitles. 
 
