@@ -4,7 +4,7 @@ Is vaping the new cigarettes? Or, more specifically, has vaping become more popu
 ## The Data 
 - [National Health Institute Survey](https://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm)  
 - [National Survey on Drug Use and Health](https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health)  
-- [Gallup Survey](https://news.gallup.com/poll/405884/cigarette-smoking-rates-down-sharply-among-young-adults.aspx)  
+- [Gallup Survey](https://news.gallup.com/poll/405884/cigarette-smoking-rates-down-sharply-among-young-adults.aspx) on cigarette use rates
 
 ## Potential Sources 
 - [Julie Chen-Sankey](https://sph.rutgers.edu/concentrations/health-behavior-society-policy/faculty-member.php?id=126742): public health professor at Rutgers, researching tobacco marketing, policy, and health impacts 
