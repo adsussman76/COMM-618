@@ -15,7 +15,7 @@ In 1995, around a quarter of American adults smoked, according to the National H
 
 E-cigarettes were the second-most used method of nicotine consumption after cigarettes in 2021. E-cigarettes, which are commonly known as “vapes,” produce an aerosol that contains nicotine, flavorings, and other chemicals. While just under 5% of adults used vapes in 2021, NSDUH data shows that e-cigarettes are more popular than traditional cigarettes for people between 12 and 20 years old. Respondents between the ages of 21 and 25 are about equal in their use of cigarettes versus e-cigarettes. For those 26 and up, cigarettes are the clear preference, with vape use declining more and more as users get older.  
 
-[Chart showing the percentage of Americans by age group who have vaped nicotine in the past month](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWTKQSOjEHSpWSjN_SRrU2qVrIdf9730PnnpJshX9vOz-_RTNJbzXb2XOvvlhnAHlaZm4fzzw0vD2h/pubchart?oid=2106503104&format=interactive) 
+[Chart showing the percentage of Americans by age group who have smoked or vaped nicotine in the past month](https://docs.google.com/spreadsheets/d/e/2PACX-1vRWTKQSOjEHSpWSjN_SRrU2qVrIdf9730PnnpJshX9vOz-_RTNJbzXb2XOvvlhnAHlaZm4fzzw0vD2h/pubchart?oid=2106503104&format=interactive) 
 
 Youth e-cigarette use has been a growing worry in in American public health circles. In 2018, [U.S. Surgeon General Jerome Adams declared youth vaping an “epidemic”](https://e-cigarettes.surgeongeneral.gov/documents/surgeon-generals-advisory-on-e-cigarette-use-among-youth-2018.pdf). In his statement, Adams cited a Centers for Disease Control and Prevention (CDC) report that found e-cigarette use among middle and high schoolers increased 900% between 2011 and 2015. 
 
