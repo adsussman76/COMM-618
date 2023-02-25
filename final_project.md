@@ -11,7 +11,7 @@ These days, smoking is no longer the social hobby it once was for Antonelli. It�
 
 In 1995, around a quarter of American adults smoked, according to the National Health Interview Survey (NHIS). But its numbers were declining, down from the country’s peak of 45% in 1965. Data from the National Survey on Drug Use and Health (NSDUH) shows that just over one in six adults are cigarette smokers in 2021.  
 
-## E-cigarettes' worrisome popularity amoung American youth 
+## E-cigarettes' worrisome popularity among American youth 
 
 E-cigarettes were the second-most used method of nicotine consumption after cigarettes in 2021. E-cigarettes, which are commonly known as “vapes,” produce an aerosol that contains nicotine, flavorings, and other chemicals. While just under 5% of adults used vapes in 2021, NSDUH data shows that e-cigarettes are more popular than traditional cigarettes for people between 12 and 20 years old. Respondents between the ages of 21 and 25 are about equal in their use of cigarettes versus e-cigarettes. For those 26 and up, cigarettes are the clear preference, with vape use declining more and more as users get older.  
 
